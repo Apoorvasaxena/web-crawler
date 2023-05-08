@@ -1,0 +1,7 @@
+monzo\test\util\HTMLParser.class
+monzo\test\Controller\WebcrawlerController.class
+monzo\test\App.class
+monzo\test\Service\test\WebcrawlerServiceImplTest.class
+monzo\test\Service\WebcrawlerService.class
+monzo\test\Service\impl\WebcrawlerServiceImpl.class
+monzo\test\util\test\HTMLParserTest.class
