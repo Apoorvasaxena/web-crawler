@@ -13,14 +13,14 @@ public class VisitedUrlRepositoryTest {
     private VisitedUrlRepository repository = new VisitedUrlRepositoryImpl();
 
     @Test
-    public void getVisitedUrl_returns_null_for_invalid_request_id() {
+    public void testGetVisitedUrlReturnsNullForInvalidRequestId() {
         String requestId = "invalid_request_id";
         Set<String> visitedUrls = repository.getVisitedUrl(requestId);
         Assertions.assertNull(visitedUrls);
     }
 
     @Test
-    public void addToMap_adds_visited_urls_to_map() {
+    public void testAddToMapAddsVisitedUrlsToMap() {
         String requestId = "test_request_id";
         Set<String> visitedUrls = new HashSet<>();
         visitedUrls.add("http://example.com/page1");

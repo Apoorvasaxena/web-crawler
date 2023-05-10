@@ -1,22 +1,10 @@
 package test.service;
 
-import monzo.Service.VisitedUrlRepository;
-import monzo.Service.impl.VisitedUrlRepositoryImpl;
 import monzo.Service.impl.WebcrawlerServiceImpl;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
-import org.mockito.Mock;
-import org.mockito.Mockito;
-
-import java.util.HashSet;
-import java.util.Set;
-
-import static org.mockito.Matchers.anyString;
-import static org.mockito.Mockito.when;
 
 public class WebcrawlerServiceImplTest {
-    //@Mock
-  //  VisitedUrlRepository visitedUrlRepository = Mockito.mock(VisitedUrlRepositoryImpl.class);
     WebcrawlerServiceImpl service = new WebcrawlerServiceImpl();
 
     @Test
