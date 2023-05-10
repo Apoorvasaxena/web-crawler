@@ -5,18 +5,12 @@ import monzo.Service.VisitedUrlRepository;
 import monzo.Service.impl.VisitedUrlRepositoryImpl;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeEach;
 
 import java.util.Set;
 
 public class TaskQueueManagerTest {
 
     private VisitedUrlRepository visitedUrlRepository  = new VisitedUrlRepositoryImpl();
-
-//    @BeforeEach
-//    void setUp() {
-//        visitedUrlRepository;
-//    }
 
     @Test
     public void testGetRequestReturnValidId() {
