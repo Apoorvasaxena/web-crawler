@@ -1,7 +1,9 @@
-C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\test\util\HTMLParser.java
-C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\test\util\test\HTMLParserTest.java
-C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\test\Service\WebcrawlerService.java
-C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\test\Service\impl\WebcrawlerServiceImpl.java
-C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\test\App.java
-C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\test\Controller\WebcrawlerController.java
-C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\test\Service\test\WebcrawlerServiceImplTest.java
+C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\App.java
+C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\Service\impl\VisitedUrlRepositoryImpl.java
+C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\Controller\WebcrawlerController.java
+C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\util\Constants.java
+C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\Service\TaskQueueManager.java
+C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\Service\VisitedUrlRepository.java
+C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\Service\WebcrawlerService.java
+C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\Service\impl\WebcrawlerServiceImpl.java
+C:\Users\91789\IdeaProjects\webCrawler\src\main\java\monzo\util\HTMLParser.java

@@ -1,7 +1,10 @@
-monzo\test\util\HTMLParser.class
-monzo\test\Controller\WebcrawlerController.class
-monzo\test\App.class
-monzo\test\Service\test\WebcrawlerServiceImplTest.class
-monzo\test\Service\WebcrawlerService.class
-monzo\test\Service\impl\WebcrawlerServiceImpl.class
-monzo\test\util\test\HTMLParserTest.class
+monzo\util\Constants.class
+monzo\util\HTMLParser.class
+monzo\Service\VisitedUrlRepository.class
+monzo\Controller\WebcrawlerController.class
+monzo\Service\impl\WebcrawlerServiceImpl.class
+monzo\Service\TaskQueueManager$VisitUrlTask.class
+monzo\App.class
+monzo\Service\TaskQueueManager.class
+monzo\Service\impl\VisitedUrlRepositoryImpl.class
+monzo\Service\WebcrawlerService.class
